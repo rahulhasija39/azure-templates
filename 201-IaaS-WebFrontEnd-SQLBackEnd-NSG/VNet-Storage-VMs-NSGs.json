@@ -74,7 +74,7 @@
     },
     "stdStorageName": {
       "type": "string",
-      "defaultValue": "testvnetstoragestd",
+      "defaultValue": "testvnet66827",
       "metadata": {
         "description": "Name for simple storage account."
       }
