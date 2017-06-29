@@ -90,7 +90,7 @@
     },
     "prmStorageName": {
       "type": "string",
-      "defaultValue": "testvnetstorageprm",
+      "defaultValue": "66827storageprm",
       "metadata": {
         "description": "Name for simple storage account."
       }
